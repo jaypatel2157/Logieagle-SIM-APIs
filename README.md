@@ -18,8 +18,8 @@ A RESTful backend API built with Laravel for managing products, categories, ware
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/jaypatel2157/Logieagle-SIM-API.git
-cd Logieagle-SIM-API
+git clone https://github.com/jaypatel2157/Logieagle-SIM-APIs.git
+cd s
 ```
 
 ### 2. Install
